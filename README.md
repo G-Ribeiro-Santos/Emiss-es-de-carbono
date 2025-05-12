@@ -1,2 +1,2 @@
-# Emiss-es-de-carbono
+# Emissoes-de-carbono
 Projeto de análise de dados desenvolvido para a matéria Análise de Dados, 2025
